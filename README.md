@@ -1,2 +1,3 @@
 # website
-Backup of personal website (abkslm.com).
+Personal Website.
+Source HTML + CSS, Image assets.
